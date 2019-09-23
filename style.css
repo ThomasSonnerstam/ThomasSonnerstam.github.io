@@ -1,0 +1,153 @@
+/* FONTS  */
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap');
+
+
+/* BASE STYLES  */
+
+body {
+    background-color: #68ACD9;
+}
+
+h1 {
+    font-family: 'Roboto';
+}
+
+/* MEDIA QUERIES  */
+
+/* MOBILE PORTRAIT  */
+
+@media (min-width: 320px) and (max-width: 567px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+
+    .imgthomas {
+        width: 50%;
+        height: auto;
+        border-radius: 100%;
+        border: 1px solid black;
+    }
+
+    .icons a img {
+        width: 30px;
+        height: 30px;
+        margin: 30px 15px 0 15px;
+    }
+
+    h1 {
+        margin-bottom: 30px;
+    }
+
+}
+
+/* MOBILE LANDSCAPE  */
+
+@media (min-width: 568px) and (max-width: 812px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+
+    .imgthomas {
+        width: 50%;
+        height: auto;
+        border-radius: 100%;
+        border: 1px solid black;
+    }
+
+    .icons a img {
+        width: 30px;
+        height: 30px;
+        margin: 30px 15px 0 15px;
+    }
+}
+
+/* TABLET PORTRAIT  */
+
+@media (min-width: 768px) and (max-width: 834px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+
+    .imgthomas {
+        width: 50%;
+        height: auto;
+        border-radius: 100%;
+        border: 1px solid black;
+    }
+
+    .icons a img {
+        width: 30px;
+        height: 30px;
+        margin: 30px 15px 0 15px;
+    }
+}
+
+/* TABLET LANDSCAPE  */
+
+@media (min-width: 768px) and (max-width: 1111px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+
+    .imgthomas {
+        width: 30%;
+        height: auto;
+        border-radius: 100%;
+        border: 1px solid black;
+    }
+
+    .icons a img {
+        width: 30px;
+        height: 30px;
+        margin: 30px 15px 0 15px;
+    }
+}
+
+/* LAPTOP & DESKTOP  */
+
+@media (min-width: 1112px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+
+    .imgthomas {
+        width: 20%;
+        height: auto;
+        border-radius: 100%;
+        border: 1px solid black;
+    }
+
+    .icons a img {
+        width: 30px;
+        height: 30px;
+        margin: 30px 15px 0 15px;
+        transition: .2s;
+    }
+
+    .icons a img:hover {
+        transform: scale(1.2);
+    }
+
+}
+
