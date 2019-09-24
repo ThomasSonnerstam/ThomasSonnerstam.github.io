@@ -1,4 +1,3 @@
-# ThomasSonnerstam.github.io
 <h1>Welcome to my GitHub</h1>
 
 <p>My name is <em>Thomas Sönnerstam</em> and I'm a student at <a href="https://www.yrgo.se">YRGO</a></p>
