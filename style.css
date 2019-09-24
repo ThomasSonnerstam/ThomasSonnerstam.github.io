@@ -127,8 +127,8 @@ h1 {
     .content-wrapper {
         display: flex;
         justify-content: calc(center - 148px);
-        align-items: center;
-        min-height: calc(100vh - 148px);
+        align-items: calc(center - 148px);
+        max-height: 100vh;
         flex-direction: column;
     }
 
