@@ -5,7 +5,7 @@
 
 <p>I'm current studying my first semester of the web developer programme. I will be putting up projects that I do while I'm studying.</p>
 
-<img href="https://giphy.com/gifs/FQyQEYd0KlYQ/html5">https://media.giphy.com/media/FQyQEYd0KlYQ/source.gif</img>
+<img src="https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif"></img>
 
 
 
