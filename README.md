@@ -1,10 +1,12 @@
-<h1>Welcome to my GitHub</h1>
+# Welcome to my GitHub
 
-<p>My name is <em>Thomas Sönnerstam</em> and I'm a student at <a href="https://www.yrgo.se">YRGO</a></p>
+My name is *Thomas Sönnerstam* and I'm a student at [YRGO](https://www.yrgo.se).
 
-<p>I'm current studying my first semester of the web developer programme. I will be putting up projects that I do while I'm studying.</p>
+I'm current studying my first semester of the web developer programme. I will be putting up projects that I do while I'm studying.
 
-<img src="https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif"></img>
+
+![](https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif)
+
 
 
 
